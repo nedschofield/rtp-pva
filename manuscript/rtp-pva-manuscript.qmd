@@ -1,0 +1,56 @@
+---
+title: RTP-pva-manuscript
+author:
+  - name: Ned L Ryan-Schofield
+    orcid: 0000-0002-4997-6560
+    corresponding: true
+    email: ned.ryan-schofield@bushheritage.org.au
+    roles:
+      - Conceptualisation
+      - Data Collection
+      - Analysis
+      - Manuscript preparation
+    affiliations:
+      - Bush Heritage Australia
+      - Charles Darwin University
+  - name: Tessa P Manning
+    orcid:  
+    corresponding: false
+    roles:  
+      - Conceptualisation
+      - Data Collection
+      - Manuscript preparation
+    affiliations:
+      - Australian Wildlife Conservancy
+keywords:
+  - Reintroductions
+abstract: |
+  tba ...
+plain-language-summary: |
+  tba ...
+key-points:
+  - tba
+date: last-modified
+bibliography: references.bib
+citation:
+  container-title: Earth and Space Science
+number-sections: true
+---
+
+## Introduction
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Methods
+
+
+## Results
+
+
+## Discussion
+
+
+## References
+
+::: {#refs}
+:::
